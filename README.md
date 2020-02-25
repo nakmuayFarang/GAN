@@ -7,6 +7,8 @@ The goal of this project is to create my own library to easily create and train 
 - tensorflow version 2.0 and above
 - numpy
 - datetime
+- PIL
+- matplotlib
 
 
 ## About GAN
@@ -17,11 +19,12 @@ Gan implemented and tutorial here:<br>
 https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/README.md
 
 ## Implemented GAN 
-- Deep Convolutional Generative Adversarial Network: DCGAN [mnist DCGAN](https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/DCGAN.ipynb)
-- Wasserstein GAN: WGAN [mnist WGAN](https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/WGAN.ipynb)
-- Conditional Generative Adversarial Network: cGAN [mnist cGAN](https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/cGAN.ipynb)
-- Least-squares Generative Adversarial Network LSGAN: [mnist LSGAN](https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/LSGAN.ipynb)
-- Auxiliary classifier Generative Adversarial Network ACGAN: [mnist ACGAN](https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/ACGAN.ipynb)
+- Deep Convolutional Generative Adversarial Network: DCGAN [mnist DCGAN](https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/DCGAN-V2.ipynb)
+- Wasserstein GAN: WGAN [mnist WGAN](https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/WGAN-V2.ipynb)
+- Conditional Generative Adversarial Network: cGAN [mnist cGAN](https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/cGan-V2.ipynb)
+- Least-squares Generative Adversarial Network LSGAN: [mnist LSGAN](https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/LSGAN-V2.ipynb)
+- Auxiliary classifier Generative Adversarial Network ACGAN: [mnist ACGAN](https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/ACGAN-V2.ipynb)
+- InfoGAN : [mnist InfoGAn](https://github.com/nakmuayFarang/Testing-on-minst-MNIST/blob/master/Keras/GAN/InfoGAN-V2.ipynb)
 
 
 
